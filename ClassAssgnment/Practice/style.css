@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.BigImage{
+    width: 1600px;
+    height: 1000px;
+     background-image: url("https://complextime.com/wp-content/uploads/2020/03/switzerland-zermatt-valley.jpg");
+     background-repeat: repeat-y;
+     background-attachment: fixed;
+
+}
+.image{
+    width: 1600px;
+    height: 1000px;
+    background-image: url("https://www.worldatlas.com/r/w1200-h630-c1200x630/upload/7b/4c/52/zurich.jpg");
+}
+.div1{
+    background-color: green;
+    opacity: 0.9;
+}
+.div2{
+    background-color: green;
+    opacity: 0.7;
+}
+.div3{
+    background-color: green;
+    opacity: 0.5;
+}
+.div4{
+    background-color: green;
+    opacity: 0.3;
+}
+.div5{
+    background-color: green;
+    opacity: 0.1;
+}
