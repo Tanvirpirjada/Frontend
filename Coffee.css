@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.coffee{
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: repeat-y;
+    padding-top: 50px;
+}
+.main{
+    background-color: burlywood;
+    width: 40%;
+    height: auto;
+    margin-top: 50%;
+    margin: auto;
+    color: rgb(13, 13, 14);
+    padding-top: 20px;
+}
+
+.data{
+    text-align: end;
+    color: black;
+}
